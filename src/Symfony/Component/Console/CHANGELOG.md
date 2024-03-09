@@ -1,6 +1,12 @@
 CHANGELOG
 =========
 
+7.1
+---
+
+ * Add `hiddden` parameter to `InputOption`
+ * Add `deprecated` parameter to `InputOption`
+
 7.0
 ---
 
